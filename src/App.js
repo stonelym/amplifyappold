@@ -8,6 +8,7 @@ function App() {
     return (
         <div className="App">
             <header>
+
                 <img src={logo} className="App-logo" alt="logo" />
                 <h1>we now have auth!</h1>
 
